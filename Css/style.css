@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#Navbar{
+
+    border: black 2px solid;
+    height: 90px;
+    width: 100%;
+   
+
+}
+#Booking{
+    height: 500px;
+    width: 100%;
+    background: url(../Img/Lanlapp-INFO.jpg) no-repeat;
+    background-size: 100%;
+
+}
+
